@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		5A2616C61BE7840C00617B36 /* EARestrictedScrollView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A2616C51BE7840C00617B36 /* EARestrictedScrollView.framework */; };
 		5AB0DA0F1BE77CF90016A8DC /* EAIntroView.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AB0DA0E1BE77CF90016A8DC /* EAIntroView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5AE1A8471BE77E25004D4A96 /* EAIntroPage.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AE1A8431BE77E25004D4A96 /* EAIntroPage.h */; settings = {ASSET_TAGS = (); }; };
+		5AE1A8471BE77E25004D4A96 /* EAIntroPage.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AE1A8431BE77E25004D4A96 /* EAIntroPage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5AE1A8481BE77E25004D4A96 /* EAIntroPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AE1A8441BE77E25004D4A96 /* EAIntroPage.m */; settings = {ASSET_TAGS = (); }; };
-		5AE1A8491BE77E25004D4A96 /* EAIntroView-framework.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AE1A8451BE77E25004D4A96 /* EAIntroView-framework.h */; settings = {ASSET_TAGS = (); }; };
+		5AE1A8491BE77E25004D4A96 /* EAIntroView-framework.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AE1A8451BE77E25004D4A96 /* EAIntroView-framework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5AE1A84A1BE77E25004D4A96 /* EAIntroView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AE1A8461BE77E25004D4A96 /* EAIntroView.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 

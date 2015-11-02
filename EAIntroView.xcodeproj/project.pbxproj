@@ -92,6 +92,7 @@
 				5AB0DA071BE77CF90016A8DC /* Frameworks */,
 				5AB0DA081BE77CF90016A8DC /* Headers */,
 				5AB0DA091BE77CF90016A8DC /* Resources */,
+				5AB76D6B1BE7D27200A1E865 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -142,6 +143,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5AB76D6B1BE7D27200A1E865 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/EARestrictedScrollView.framework",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5AB0DA061BE77CF90016A8DC /* Sources */ = {

@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'EARestrictedScrollView', :exclusive => true do
+  pod 'EARestrictedScrollView', :path => '../'
+end
+
+target 'Tests', :exclusive => true do
+    pod 'EARestrictedScrollView', :path => '../'
+    
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+end
